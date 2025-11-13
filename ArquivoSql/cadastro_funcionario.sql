@@ -1,5 +1,5 @@
-CREATE DATABASE cadastro_funcionario;
-USE cadastro_funcionario;
+CREATE DATABASE cadastro_funcionarios;
+USE cadastro_funcionarios;
 
 CREATE TABLE funcionario(
 id INT UNSIGNED AUTO_INCREMENT NOT NULL,

@@ -52,6 +52,9 @@ namespace CadastroFuncionario
             txt_departamento.Clear();
             txt_dtNascimento.Clear();
             txt_dtAdimissao.Clear();
+            txt_salario.Clear();
+            txt_valorInss.Clear();
+            txt_cargaHoraria.Clear();
             cbx_planoDeSaude.SelectedIndex = 0;
         }
 

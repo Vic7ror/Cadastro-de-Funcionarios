@@ -19,7 +19,7 @@ namespace CadastroFuncionario
             {
                 string conn = "Persist Security Info = false; " +
                               "server = localhost; " +
-                              "database = cadastro_funcionario; " +
+                              "database = cadastro_funcionarios; " +
                 "uid = root; pwd=";
 
                 conexao = new MySqlConnection(conn);
