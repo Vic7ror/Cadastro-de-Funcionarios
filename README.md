@@ -14,12 +14,7 @@ informações:
 - Salário.
 - Valor do INSS.
 - Plano de saúde: sim ou não.
-
------------------------------------------------------------------
-
-Lenguage: C#, SQL
-
------------------------------------------------------------------
+[Lenguage: C#, SQL]
 
 # Prints e Gifs do funcionamento
 
