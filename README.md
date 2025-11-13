@@ -1,6 +1,6 @@
 # Cadastro De Funcionários
 
-1) Carlos precisa desenvolver uma aplicação para gerenciar seus funcionários, para isso você deve desenvolver
+Carlos precisa desenvolver uma aplicação para gerenciar seus funcionários, para isso você deve desenvolver
 um formulário para cadastrar e listar os funcionários de sua loja. No formulário deverá ter as seguintes
 informações:
 
