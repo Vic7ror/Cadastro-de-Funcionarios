@@ -1,4 +1,4 @@
-# Problema
+# Cadastro De Funcionários
 #Atividade Prática Windows Forms (Cadastro-de-Funcionário)
 
 1) Carlos precisa desenvolver uma aplicação para gerenciar seus funcionários, para isso você deve desenvolver
@@ -23,7 +23,7 @@ informações:
 # Prints e Gifs do funcionamento
 
 1. Tela Principal
-   ![Tela Inicial](/PrintsGifs/TelaInicial.png)
+ - ![Tela Inicial](/PrintsGifs/TelaInicial.png)
 
 2. Gif em Funcionamento
-   ![Tela Inicial](/PrintsGifs/GifCadastroFuncionarios.gif)
+ - ![Tela Inicial](/PrintsGifs/GifCadastroFuncionarios.gif)
