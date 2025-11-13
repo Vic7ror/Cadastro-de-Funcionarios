@@ -14,9 +14,12 @@ informações:
 - Salário.
 - Valor do INSS.
 - Plano de saúde: sim ou não.
+--------------------------------------------
 
-  Lenguage C#
-  
+- Aplicativos usados: Visual Studio, MySQL Workbench
+- Lenguage C#, SQL
+
+--------------------------------------------
 # Prints e Gifs do funcionamento
 
 1. Tela Principal
