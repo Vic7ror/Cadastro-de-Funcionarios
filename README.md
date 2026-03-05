@@ -16,7 +16,7 @@ informações:
 --------------------------------------------
 
 - Aplicativos usados: Visual Studio, MySQL Workbench
-- Lenguage C#, SQL
+- Linguagens: C#, SQL
 
 --------------------------------------------
 # Prints e Gifs do funcionamento
